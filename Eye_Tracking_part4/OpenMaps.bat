@@ -1,0 +1,1 @@
+python C:\Users\youse\Desktop\Eyes-Position-Estimator-Mediapipe-master\Eye_Tracking_part4\test2.py
