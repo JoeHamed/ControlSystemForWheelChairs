@@ -1,10 +1,3 @@
-'''
-
-Author: Asadullah Dal 
-Youtube Channel: https://www.youtube.com/c/aiphile
-
-'''
-
 import cv2 as cv 
 import numpy as np
 
