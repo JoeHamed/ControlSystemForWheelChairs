@@ -1,0 +1,315 @@
+Date: 23/5/2024
+Time: 7:6
+Phone Number: +201120677897
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 23/5/2024
+Time: 7:9
+Phone Number: +201120677897
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 23/5/2024
+Time: 7:13
+Phone Number: +201120677897
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 23/5/2024
+Time: 7:14
+Phone Number: +201120677897
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 23/5/2024
+Time: 7:21
+Phone Number: +201120677897
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 23/5/2024
+Time: 7:21
+Phone Number: +201120677897
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 23/5/2024
+Time: 7:22
+Phone Number: +201120677897
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 23/5/2024
+Time: 7:25
+Phone Number: +201120677897
+Message: https://maps.app.goo.gl/Z7sXm3NZPNvyCMR49
+--------------------
+Date: 23/5/2024
+Time: 7:41
+Phone Number: +201120677897
+Message: https://maps.app.goo.gl/ocKnux7ruJqAYn916
+--------------------
+Date: 23/5/2024
+Time: 8:15
+Phone Number: +************
+Message: 29.982465, 32.519195
+--------------------
+Date: 23/5/2024
+Time: 8:16
+Phone Number: +201120677897
+Message: 29.982465, 32.519195
+--------------------
+Date: 23/5/2024
+Time: 8:17
+Phone Number: +201120677897
+Message: 29.982465, 32.519195
+--------------------
+Date: 23/5/2024
+Time: 8:18
+Phone Number: +201120677897
+Message: https://maps.app.goo.gl/73csZGTZKxNmzthe7
+--------------------
+Date: 23/5/2024
+Time: 8:19
+Phone Number: +201120677897
+Message: https://maps.app.goo.gl/73csZGTZKxNmzthe7
+--------------------
+Date: 23/5/2024
+Time: 8:20
+Phone Number: +201120677897
+Message: https://maps.app.goo.gl/73csZGTZKxNmzthe7
+--------------------
+Date: 23/5/2024
+Time: 9:37
+Phone Number: +201120677897
+Message: 29.982334, 32.519343
+--------------------
+Date: 23/5/2024
+Time: 9:39
+Phone Number: +201120677897
+Message: https://maps.app.goo.gl/eeGEqR6TpQ5MW35p7
+--------------------
+Date: 23/5/2024
+Time: 9:44
+Phone Number: +201129733082
+Message: https://maps.app.goo.gl/eeGEqR6TpQ5MW35p7
+--------------------
+Date: 23/5/2024
+Time: 9:45
+Phone Number: +201129733082
+Message: https://maps.app.goo.gl/eeGEqR6TpQ5MW35p7
+--------------------
+Date: 7/6/2024
+Time: 18:54
+Phone Number: +201129733082
+Message: https://www.google.com/maps?q=29.982429,32.519434
+--------------------
+Date: 7/6/2024
+Time: 20:17
+Phone Number: +201120677897
+Message: https://www.google.com/maps?q=29.982425,32.519434
+--------------------
+Date: 7/6/2024
+Time: 20:48
+Phone Number: +2001021718049
+Message: https://www.google.com/maps?q=29.982425,32.519434
+--------------------
+Date: 7/6/2024
+Time: 20:52
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982425,32.519434
+--------------------
+Date: 7/6/2024
+Time: 20:54
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982425,32.519434
+--------------------
+Date: 7/6/2024
+Time: 21:31
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982422,32.519430
+--------------------
+Date: 7/6/2024
+Time: 21:37
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982422,32.519430
+--------------------
+Date: 7/6/2024
+Time: 21:38
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982422,32.519430
+--------------------
+Date: 7/6/2024
+Time: 21:40
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982422,32.519430
+--------------------
+Date: 7/6/2024
+Time: 21:40
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982424,32.519426
+--------------------
+Date: 7/6/2024
+Time: 21:45
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 21:45
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 21:56
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 21:58
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 21:58
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 21:59
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 22:6
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 22:6
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 22:7
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982431,32.519444
+--------------------
+Date: 7/6/2024
+Time: 22:12
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:12
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:12
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:13
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:13
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:21
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:21
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:21
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:22
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:22
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982419,32.519425
+--------------------
+Date: 7/6/2024
+Time: 22:59
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982330,32.519487
+--------------------
+Date: 7/6/2024
+Time: 23:0
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982330,32.519487
+--------------------
+Date: 7/6/2024
+Time: 23:18
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982422,32.519427
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:20
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982427,32.519429
+--------------------
+Date: 7/6/2024
+Time: 23:28
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=29.982420,32.519424
+--------------------
+Date: 8/6/2024
+Time: 14:10
+Phone Number: +2001120677897
+Message: https://www.google.com/maps?q=30.131342,31.703453
+--------------------
+Date: 8/6/2024
+Time: 14:34
+Phone Number: +2001129733082
+Message: https://www.google.com/maps?q=30.129819,31.702181
+--------------------

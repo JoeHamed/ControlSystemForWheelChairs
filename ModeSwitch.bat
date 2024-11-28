@@ -1,0 +1,1 @@
+start /min python "C:\Users\youse\Desktop\Eyes-Position-Estimator-Mediapipe-master\Eye_Tracking_part4\MergeScriptsGUI.py
