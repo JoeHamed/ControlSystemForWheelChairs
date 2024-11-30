@@ -37,8 +37,7 @@ This project demonstrates a Python-based servo control system that uses ultrason
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your_username>/<your_repo_name>.git
-    cd <your_repo_name>
+    git clone https://github.com/JoeHamed/ControlSystemForWheelChairs.git
     ```
 
 2. Install necessary Python libraries:
